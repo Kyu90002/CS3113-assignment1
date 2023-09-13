@@ -21,6 +21,7 @@ Programming assignmnt: You will write a C program (60-100 lines) that satisfies 
 •	[File read] Open “hw1_output.txt” file in your program, read, and print the content of the file. Again, please close the file.
 
 Example output:
+
 <img width="311" alt="image" src="https://github.com/Kyu90002/CS3113-assignment1/assets/79064939/7034d0f2-303e-4c45-a3c3-68fda8657b95">
 
 
